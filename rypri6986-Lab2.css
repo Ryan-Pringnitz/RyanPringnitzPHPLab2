@@ -1,0 +1,30 @@
+/*************************************
+* Programmer: Ryan Pringnitz
+* Bronco NetID: rypri6986
+* Lab #2 
+* CIS 2800: Internet Programming
+* Spring 2013
+* Due date: 02/10/13
+* Date completed: 02/9/13
+*************************************
+* Program Explanation
+*
+* This file contains CSS layout information for my web page
+**************************************/
+
+body {
+	background-color:#cccccc;
+	}
+
+h2 { 
+  	text-align: center;
+    color:#cc00cc;
+   }
+
+.error {color: #ff0000;}
+.correct {color: #00cc00;}
+.date{
+      font-family: Arial,Helvetica,sans-serif;
+      font-weight: bold;
+      margin-left: 100px;
+    }
